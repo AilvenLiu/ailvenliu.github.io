@@ -1,0 +1,90 @@
+body {
+  font-family: 'Inter', sans-serif;
+  color: #1d1d1f;
+  background-color: #ffffff;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+}
+
+header {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 60px 20px 30px 20px;
+  border-bottom: 1px solid #eaeaea;
+}
+
+.avatar {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  margin-right: 30px;
+  border: 2px solid #8C1515;
+}
+
+.intro {
+  max-width: 500px;
+}
+
+h1 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  font-size: 1.8em;
+  margin: 0 0 0.3em 0;
+}
+
+.affiliation {
+  color: #444;
+  margin: 0 0 0.5em 0;
+}
+
+.contact a {
+  color: #8C1515;
+  text-decoration: none;
+}
+
+.contact a:hover {
+  text-decoration: underline;
+}
+
+main {
+  max-width: 720px;
+  margin: 40px auto;
+  padding: 0 20px;
+}
+
+section {
+  margin-bottom: 2.5em;
+}
+
+h2 {
+  font-family: 'Merriweather', serif;
+  font-weight: 700;
+  color: #8C1515;
+  border-left: 4px solid #8C1515;
+  padding-left: 10px;
+  margin-bottom: 0.8em;
+}
+
+ul {
+  padding-left: 20px;
+}
+
+a {
+  color: #8C1515;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+footer {
+  text-align: center;
+  color: #888;
+  font-size: 0.9em;
+  border-top: 1px solid #eee;
+  padding: 20px 0;
+  margin-top: 40px;
+}
