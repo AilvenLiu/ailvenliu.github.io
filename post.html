@@ -1,0 +1,172 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Post - Ailven LIU</title>
+  <link rel="icon" href="assets/profile_cat.ico">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/blog.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+
+  <!-- Highlight.js CSS for code syntax highlighting -->
+  <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/styles/github.min.css">
+</head>
+
+<body>
+  <header>
+    <div class="intro">
+      <h1 id="post-title">Loading...</h1>
+      <p class="post-meta" id="post-meta"></p>
+      <p class="contact">
+        <a href="blog.html">← Back to Blog</a> ·
+        <a href="index.html">Home</a>
+      </p>
+    </div>
+  </header>
+
+  <main>
+    <article id="post-content">
+      <p class="loading">Loading post...</p>
+    </article>
+  </main>
+
+  <footer>
+    <p>© 2025 Ailven LIU · Last updated: November 2025</p>
+  </footer>
+
+  <!-- Marked.js for Markdown parsing -->
+  <script src="https://cdn.jsdelivr.net/npm/marked@11.1.1/marked.min.js"></script>
+
+  <!-- Highlight.js for code syntax highlighting -->
+  <script src="https://cdn.jsdelivr.net/gh/highlightjs/cdn-release@11.9.0/build/highlight.min.js"></script>
+
+  <!-- DOMPurify for XSS protection -->
+  <script src="https://cdn.jsdelivr.net/npm/dompurify@3.0.8/dist/purify.min.js"></script>
+
+  <script>
+    // 配置 marked 使用 highlight.js 进行代码高亮
+    marked.setOptions({
+      highlight: function(code, lang) {
+        if (lang && hljs.getLanguage(lang)) {
+          try {
+            return hljs.highlight(code, { language: lang }).value;
+          } catch (err) {
+            console.error('Highlight error:', err);
+          }
+        }
+        return hljs.highlightAuto(code).value;
+      },
+      breaks: true,
+      gfm: true
+    });
+
+    // 从 URL 获取文章 ID
+    function getPostId() {
+      const params = new URLSearchParams(window.location.search);
+      return params.get('id');
+    }
+
+    // 安全地转义 HTML
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // 加载文章元数据
+    async function loadPostMetadata(postId) {
+      const response = await fetch('posts/index.json');
+      if (!response.ok) {
+        throw new Error('Failed to load post metadata');
+      }
+      const posts = await response.json();
+      const post = posts.find(p => p.id === postId);
+      if (!post) {
+        throw new Error('Post not found');
+      }
+      return post;
+    }
+
+    // 加载并渲染文章
+    async function loadPost() {
+      const postId = getPostId();
+
+      if (!postId) {
+        displayError('Invalid post ID');
+        return;
+      }
+
+      try {
+        // 加载文章元数据
+        const metadata = await loadPostMetadata(postId);
+
+        // 更新页面标题和元数据
+        document.title = `${metadata.title} - Ailven LIU`;
+        document.getElementById('post-title').textContent = metadata.title;
+
+        // 显示文章元数据（日期和标签）
+        let metaHtml = `<span class="date">${escapeHtml(metadata.date)}</span>`;
+        if (metadata.tags && metadata.tags.length > 0) {
+          metaHtml += ' · <span class="tags">' +
+            metadata.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('') +
+            '</span>';
+        }
+        document.getElementById('post-meta').innerHTML = metaHtml;
+
+        // 加载 Markdown 文件
+        const mdResponse = await fetch(`posts/${metadata.file}`);
+        if (!mdResponse.ok) {
+          throw new Error('Failed to load post content');
+        }
+        const markdown = await mdResponse.text();
+
+        // 将 Markdown 转换为 HTML
+        const rawHtml = marked.parse(markdown);
+
+        // 使用 DOMPurify 清理 HTML，防止 XSS 攻击
+        const cleanHtml = DOMPurify.sanitize(rawHtml, {
+          ALLOWED_TAGS: [
+            'h1', 'h2', 'h3', 'h4', 'h5', 'h6',
+            'p', 'br', 'hr',
+            'strong', 'em', 'del', 'code', 'pre',
+            'ul', 'ol', 'li',
+            'blockquote',
+            'a', 'img',
+            'table', 'thead', 'tbody', 'tr', 'th', 'td',
+            'span', 'div'
+          ],
+          ALLOWED_ATTR: ['href', 'src', 'alt', 'title', 'class', 'id']
+        });
+
+        // 显示文章内容
+        document.getElementById('post-content').innerHTML = cleanHtml;
+
+        // 为所有外部链接添加安全属性
+        document.querySelectorAll('#post-content a').forEach(link => {
+          if (link.hostname !== window.location.hostname) {
+            link.setAttribute('target', '_blank');
+            link.setAttribute('rel', 'noopener noreferrer');
+          }
+        });
+
+      } catch (error) {
+        console.error('Error loading post:', error);
+        displayError('Failed to load post. Please try again later.');
+      }
+    }
+
+    function displayError(message) {
+      document.getElementById('post-title').textContent = 'Error';
+      document.getElementById('post-meta').textContent = '';
+      document.getElementById('post-content').innerHTML =
+        `<p class="error">${escapeHtml(message)}</p>`;
+    }
+
+    // 页面加载时执行
+    loadPost();
+  </script>
+</body>
+</html>

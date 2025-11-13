@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Blog - Ailven LIU</title>
+  <link rel="icon" href="assets/profile_cat.ico">
+  <link rel="stylesheet" href="assets/style.css">
+  <link rel="stylesheet" href="assets/blog.css">
+
+  <!-- Google Fonts -->
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+</head>
+
+<body>
+  <header>
+    <div class="intro">
+      <h1>Technical Blog</h1>
+      <p class="affiliation">
+        Thoughts on AI, Autonomous Driving, and High Performance Computing
+      </p>
+      <p class="contact">
+        <a href="index.html">← Back to Home</a>
+      </p>
+    </div>
+  </header>
+
+  <main>
+    <section id="blog-posts">
+      <div id="posts-container">
+        <p class="loading">Loading posts...</p>
+      </div>
+    </section>
+  </main>
+
+  <footer>
+    <p>© 2025 Ailven LIU · Last updated: November 2025</p>
+  </footer>
+
+  <script>
+    // 安全地加载并显示博客文章列表
+    async function loadPosts() {
+      try {
+        const response = await fetch('posts/index.json');
+        if (!response.ok) {
+          throw new Error('Failed to load posts');
+        }
+        const posts = await response.json();
+        displayPosts(posts);
+      } catch (error) {
+        console.error('Error loading posts:', error);
+        document.getElementById('posts-container').innerHTML =
+          '<p class="error">Failed to load posts. Please try again later.</p>';
+      }
+    }
+
+    function displayPosts(posts) {
+      const container = document.getElementById('posts-container');
+
+      if (!posts || posts.length === 0) {
+        container.innerHTML = '<p class="no-posts">No posts yet. Stay tuned!</p>';
+        return;
+      }
+
+      // 按日期排序（最新的在前）
+      posts.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+      let html = '<ul class="posts-list">';
+
+      posts.forEach(post => {
+        // 安全地转义 HTML 内容，防止 XSS
+        const title = escapeHtml(post.title);
+        const description = escapeHtml(post.description);
+        const date = escapeHtml(post.date);
+        const id = encodeURIComponent(post.id);
+
+        // 处理标签
+        let tagsHtml = '';
+        if (post.tags && post.tags.length > 0) {
+          tagsHtml = '<span class="tags">' +
+            post.tags.map(tag => `<span class="tag">${escapeHtml(tag)}</span>`).join('') +
+            '</span>';
+        }
+
+        html += `
+          <li class="post-item">
+            <div class="post-date">${date}</div>
+            <h3><a href="post.html?id=${id}">${title}</a></h3>
+            <p class="post-description">${description}</p>
+            ${tagsHtml}
+          </li>
+        `;
+      });
+
+      html += '</ul>';
+      container.innerHTML = html;
+    }
+
+    // 防止 XSS 攻击的 HTML 转义函数
+    function escapeHtml(text) {
+      const div = document.createElement('div');
+      div.textContent = text;
+      return div.innerHTML;
+    }
+
+    // 页面加载时执行
+    loadPosts();
+  </script>
+</body>
+</html>

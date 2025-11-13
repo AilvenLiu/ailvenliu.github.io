@@ -1,0 +1,10 @@
+[
+  {
+    "id": "welcome-to-blog",
+    "title": "欢迎来到我的技术博客",
+    "date": "2025-01-13",
+    "description": "这是我的第一篇技术博客文章，介绍博客的主要内容方向和规划。",
+    "tags": ["随笔", "博客"],
+    "file": "welcome-to-blog.md"
+  }
+]
