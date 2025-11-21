@@ -1,10 +1,10 @@
 [
   {
-    "id": "welcome-to-blog",
-    "title": "欢迎来到我的技术博客",
-    "date": "2025-01-13",
-    "description": "这是我的第一篇技术博客文章，介绍博客的主要内容方向和规划。",
-    "tags": ["随笔", "博客"],
-    "file": "welcome-to-blog.md"
+    "id": "finance_251121",
+    "title": "In-depth Analysis of the US Stock Market on November 20",
+    "date": "2025-11-21",
+    "description": "On November 20, 2025, the U.S. stock market experienced a dramatic open-high, close-low reversal. Spurred by a better-than-expected earnings report from Artificial Intelligence (AI) giant Nvidia, the market opened significantly higher, with the Dow Jones Industrial Average surging over 700 points at its peak.",
+    "tags": ["Finance"],
+    "file": "finance_251121_us_stock_analysis.md"
   }
 ]
