@@ -1,6 +1,8 @@
 ## In-depth Analysis of the US Stock Market on November 20, 2025: A 'Perfect Storm' Triggered by AI
 
 **Publication Date**: November 21, 2025
+**Author**: Ailven LIU 刘翔
+**All Rights Reserved**
 
 ### Executive Summary
 
