@@ -7,21 +7,26 @@
 >
 
 <url>
- <loc>http://ailven.cn/blog.html</loc>
+  <loc>https://www.ailven.cn/</loc>
+  <lastmod>2025-12-03T14:33:53+00:00</lastmod>
+  <priority>1.00</priority>
+</url>
+<url>
+ <loc>http://www.ailven.cn/blog.html</loc>
  <priority>0.5</priority>
- <lastmod>2025-12-3</lastmod>
+ <lastmod>2025-12-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://ailven.cn/index.html</loc>
+ <loc>http://www.ailven.cn/index.html</loc>
  <priority>0.5</priority>
- <lastmod>2025-12-3</lastmod>
+ <lastmod>2025-12-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 <url>
- <loc>http://ailven.cn/post.html?id=${id}</loc>
+ <loc>http://www.ailven.cn/post.html?id=${id}</loc>
  <priority>0.5</priority>
- <lastmod>2025-12-3</lastmod>
+ <lastmod>2025-12-03</lastmod>
  <changefreq>weekly</changefreq>
 </url>
 </urlset>
