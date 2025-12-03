@@ -1,0 +1,53 @@
+## On Conditional Recognition and Existential Seeing: The Economics of Love and Existential Resistance
+
+**Publication Date**: December 03, 2025    
+**Author**: Ailven LIU 刘翔    
+**All Rights Reserved**    
+
+In our exploration of life attitudes and intimate relationships, a sharp and pervasive dilemma emerges: those we love deeply and trust most—our partners—often implicitly set the benchmarks of a socially recognised successful life, characterised by achievement, development, foresight, and perpetual progression, as the unspoken terms of the relationship. Their departure, prompted by our perceived failure to meet these expectations, is experienced not merely as an emotional loss but as a profound negation.
+
+As previously analysed, **the essence of such departure is tantamount to a verdict of ‘social death sentence’.** Its core message is: "Your value as a partner or loved one is deeply contingent upon your alignment with our metrics of social success. Your ‘failure to meet the standard’ renders you unworthy of our continued investment and companionship." Behind this verdict, the identity of "they" comes into focus: **they are not holders of truth, but conduits of collective fear.** Their demands ("you must have achievement, development, and vision") are rooted in survival anxiety and status anxiety; their love often manifests as a stark **‘conditional’ mode**—loving you for your bright prospects, your role as a source of pride, your fit for their imagination of an ‘excellent life’; once these conditions dissolve, the love is withdrawn.
+
+This preliminary conclusion strikes at the heart of the pain but does not yet reach the philosophical and sociological core of the issue. To truly understand the deep structure of this relational tragedy, we must introduce and examine a pair of key concepts: **‘Conditional Recognition’ and ‘Existential Seeing’.** The conflict between them constitutes one of the most fundamental tensions in contemporary intimate relationships.
+
+---
+
+#### **I. Conditional Recognition: The Internalisation of Social Discipline and the Economics of Love**
+
+‘Conditional Recognition’ refers to the approval, acceptance, and love an individual receives being strictly dependent on their conformity to a set of externally imposed, measurable social value standards. Within intimate relationships, it manifests when a partner equates your ‘value of being’ with your ‘functional value’.
+
+1.  **Its Essence is the Capillarisation of Social Discipline:** Society, through systems like family, education, and media, continuously disseminates a script for a ‘successful life’: stable career advancement, prominent social status, expanding wealth and influence. This script is essentially an instrument of discipline that maintains social structure and competitive order. When a partner internalises this script as the sole criterion for choosing and maintaining a relationship, social discipline achieves its most subtle and potent infiltration—it invades the most private sphere of intimacy from the public domain, transforming what should be a sanctuary into another arena of performance review. Demanding that a partner ‘continuously improve and climb higher’ is often unrelated to the individual’s genuine happiness or potential; it is, unconsciously, a demand for the other to become a bulwark against one’s own survival anxiety and a buoy for one’s own social standing.
+
+2.  **Relationship as Value Exchange: A Stark ‘Economics of Love’:** From this perspective, intimate relationships shed their emotional mystique, revealing their rational, calculative nature as **‘value exchange’.** This enters the realm of the ‘economics of love’ or ‘psycho-economics’. The individual is viewed as an ‘asset’ holding specific capital (e.g., prospects, vision, social reputation), and the relationship as an ‘investment’ expecting future returns (e.g., security, social respect, class stability). When one party judges the other’s capital to be depreciating or failing to appreciate—that is, when the expected return no longer covers the emotional ‘opportunity cost’—‘divestment’ (leaving) becomes the choice aligned with their psycho-economic rationality. This is not a moral condemnation but a revelation of a widely operative, unconscious logic. The statement "you have not met the standard" translates to: "Your valuation has fallen below my psychological threshold; I can no longer derive sufficient emotional and social profit from this relationship."
+
+3.  **Manifestation and Consequence: The Withdrawal of Recognition is the Negation of Being:** The manifestation of ‘Conditional Recognition’ in relationships extends far beyond the decisive moment of departure. It permeates daily life: anxiety over ‘stagnation’, shame about ‘mediocrity’, the alienation of shared life into mutual ‘progress projects’. Its deepest injury lies in making the evaluated individual feel that: **the essence of my ‘I’, my very being, is meaningless and unworthy of love unless it is attached to those quantifiable achievements.** This withdrawal of recognition is, therefore, a negation at the existential level. It echoes the philosopher Hegel’s insight that recognition is a condition for the existence of self-consciousness. When the closest person grants recognition only conditionally, the individual is plunged into a profound ‘crisis of recognition’.
+
+---
+
+#### **II. Existential Seeing: Resistance to Discipline and Ontological Affirmation**
+
+In opposition to ‘Conditional Recognition’ stands **‘Existential Seeing’**. This is not a romantic fantasy but a more fundamental, albeit more demanding, relational stance.
+
+1.  **Its Essence is Ontological Affirmation Stripped of Social Indicators:** ‘Existential Seeing’ means that I see you, I love you, not for your function, your performance, your position on the social ladder, but **for your ‘Dasein’—your unique existence as a ‘being-there’.** I see your joys and sorrows, your vulnerability and courage, your unique way of perceiving and engaging with the world—those aspects that cannot be captured in a CV or measured by KPIs. This is a gaze that, stripped of all social exchange value, is almost ‘luxurious’. It affirms: "Your existence *itself* is meaningful and worthy of companionship." This seeing constitutes the most fundamental resistance to the social discipline that instrumentalises human beings.
+
+2.  **Relationship as Practice of ‘Existential Resistance’:** In a society where everyone is caught in a performance race, practising ‘Existential Seeing’ is itself an act of **‘existential resistance’.** It resists the trend of instrumentalising all relationships, including the most intimate ones. It requires both parties to have the courage to suspend their internal fears—fear of falling behind, fear of others’ judgments, fear of an uncertain future—and, within this suspended space, to encounter the authentic other, stripped of all social armour. This demands significant spiritual strength and independence, for it implies the necessity of co-creating, to some degree, a ‘relational enclave’ not wholly dominated by external value systems.
+
+3.  **Manifestation and Dilemma: Scarcity and Misinterpretation:** In reality, ‘Existential Seeing’ is often dismissed as ‘unrealistic’ or ‘indulgent’. It is easily mistaken for a passive laissez-faire attitude that ignores any need for the other’s growth. However, genuine ‘Existential Seeing’ is nothing of the sort. It may equally encourage growth and exploration, but its **motivation and foundation are entirely different**: not stemming from fear (of being left behind) but from curiosity and trust in the other’s life potential; not demanding the other reach a pre-set ‘successful’ destination but accompanying the other on their own path towards becoming a more complete self. Its dilemma lies in its extreme scarcity within a world thoroughly colonised by the logic of ‘Conditional Recognition’, and its high demand for the level of conscious awareness in both individuals involved.
+
+---
+
+#### **Conclusion: The Inevitable Rupture and the Liberation of Clarity**
+
+Returning to the initial predicament: when those we love deeply leave us for ‘failing to meet the standard’, what we encounter is the **ultimate crushing of the need for ‘Existential Seeing’ by the regime of ‘Conditional Recognition’**.
+
+This is not a failure of private sentiment but a **clash within the intimate arena between two value paradigms, two modes of being.** The partner demanding constant ascent has essentially enshrined the social fears and performance ethics they have internalised as the supreme law of love. Their departure proclaims that, before this law, your authentic being—which cannot be metricised—has been judged ‘of insufficient value’.
+
+Recognising this brings not comfort, but a form of brutal clarity and potential liberation. It allows us to see clearly:
+
+1.  **What was lost was not a home, but a joint venture:** What we mourn so deeply may never have been a ‘home’ capable of容纳 our full existence, but rather a ‘joint venture’ based on social value exchange. The dissolution of the venture is painful, but it should not be confused with the loss of an existential foundation.
+
+2.  **Separation is a logical inevitability:** When one party insists on ‘Conditional Recognition’ while the other craves or has come to need ‘Existential Seeing’, the rupture of the relationship is almost a structural necessity. The two cannot coexist long-term, for the logic of the former will inevitably erode the space for the latter.
+
+3.  **It points to the ultimate question for the self:** The final interrogation turns inward: Can I, to some degree, first practise ‘Existential Seeing’ upon myself? Can I affirm the fundamental value of my own being, apart from the clamour of societal judgment? This is no easy task, yet it is the starting point for any genuine freedom and the possibility of building deep relationships.
+
+Therefore, those who left us for being ‘not accomplished enough’ play, in a broader view, the role of ruthless revealers. Through their actions, they coldly demonstrate the dominant economic laws of love in our time. And our pain and reflection may become the seed of an existential resistance—beginning with the question: "Am I willing to be recognised only conditionally?" and culminating in the exploration: "Can I see and embrace the self and the other who, transcending all metrics, is worthy of existence *as such*?" This exploration offers no easy answers, but it shifts us from private regret and blame towards a public, profound reflection on our era, human nature, and the meaning of existence.

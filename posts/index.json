@@ -6,5 +6,13 @@
     "description": "On November 20, 2025, the U.S. stock market experienced a dramatic open-high, close-low reversal. Spurred by a better-than-expected earnings report from Artificial Intelligence (AI) giant Nvidia, the market opened significantly higher, with the Dow Jones Industrial Average surging over 700 points at its peak.",
     "tags": ["Finance"],
     "file": "finance_251121_us_stock_analysis.md"
+  },
+  {
+    "id": "moment-251203",
+    "title": "[Moment][251203] On Conditional Recognition and Existential Seeing: The Economics of Love and Existential Resistance",
+    "date": "2025-12-03",
+    "description": "In our exploration of life attitudes and intimate relationships, a sharp and pervasive dilemma emerges: those we love deeply and trust most—our partners—often implicitly set the benchmarks of a socially recognised successful life, characterised by achievement, development, foresight, and perpetual progression, as the unspoken terms of the relationship. Their departure, prompted by our perceived failure to meet these expectations, is experienced not merely as an emotional loss but as a profound negation.",
+    "tags": ["Moment"],
+    "file": "posts/moment_251203_the_economics_of_love.md"
   }
 ]
