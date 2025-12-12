@@ -14,5 +14,13 @@
     "description": "In our exploration of life attitudes and intimate relationships, a sharp and pervasive dilemma emerges: those we love deeply and trust most—our partners—often implicitly set the benchmarks of a socially recognised successful life, characterised by achievement, development, foresight, and perpetual progression, as the unspoken terms of the relationship. Their departure, prompted by our perceived failure to meet these expectations, is experienced not merely as an emotional loss but as a profound negation.",
     "tags": ["Moment"],
     "file": "moment_251203_the_economics_of_love.md"
+  },
+  {
+    "id": "devops-251212",
+    "title": "[DevOps][251212] Kill A Process in K8S container, when kill -9 <pid> is noneffective",
+    "date": "2025-12-12",
+    "description": "In Kubernetes pods, processes may appear in ps -ef output but fail to respond to kill commands with 'No such process' errors. This occurs when the target process runs in a different PID namespace than the current shell, a common isolation mechanism in containerized environments. Analysis of /proc/<PID>/status reveals the process has dual PIDs: one for the host namespace and another for its container namespace (shown in NSpid). The solution involves using nsenter to enter the target process's namespace and sending signals using its container-local PID, effectively bridging the namespace boundary to terminate the process.",
+    "tags": ["DevOps"],
+    "file": "devops_251212_kill_a_process_in_k8s.md"
   }
 ]
