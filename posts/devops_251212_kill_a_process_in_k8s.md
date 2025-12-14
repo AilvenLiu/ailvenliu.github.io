@@ -1,8 +1,8 @@
 # Killing Processes in K8s Pods: PID Namespace Mismatch
 
-**Publication Date**: December 12, 2025
-**Author**: Ailven LIU 刘翔
-**All Rights Reserved*
+**Publication Date**: December 12, 2025    
+**Author**: Ailven LIU 刘翔     
+**All Rights Reserved**     
 
 ## Problem
 
