@@ -22,5 +22,13 @@
     "description": "In Kubernetes pods, processes may appear in ps -ef output but fail to respond to kill commands with 'No such process' errors. This occurs when the target process runs in a different PID namespace than the current shell, a common isolation mechanism in containerized environments. Analysis of /proc/<PID>/status reveals the process has dual PIDs: one for the host namespace and another for its container namespace (shown in NSpid). The solution involves using nsenter to enter the target process's namespace and sending signals using its container-local PID, effectively bridging the namespace boundary to terminate the process.",
     "tags": ["DevOps"],
     "file": "devops_251212_kill_a_process_in_k8s.md"
+  },
+  {
+    "id": "moment-251223",
+    "title": "[Moment][251223] The Counterfeit of the Sublime:",
+    "date": "2025-12-23",
+    "description": "Using the character Yu Xiaoqing as a sociopsychological wedge, this analysis dissects the pathology of 'Performative Idealism.' It explores a prevalent modern personality: the sophisticated egoist who camouflages ruthless instrumental rationality beneath an aestheticized moral shell. Drawing on Goffman's dramaturgy and Sartrean 'Bad Faith', the article reveals how these individuals commodify idealism to accumulate power, seamlessly objectifying others when interests conflict. Ultimately, it exposes this 'Machiavellianism in saint's clothing' not merely as hypocrisy, but as a systemic symptom of class anxiety that leads to a profound existential nihilism.",
+    "tags": ["Moment"],
+    "file": "moment_251223_the_counterfeit_of_the_sublime.md"
   }
 ]
