@@ -1,11 +1,11 @@
-**Cognitive Stratification and the Intergenerational Transmission of Cultural Capital: A Sociological Reconstruction of Individual Development**
+**Cognitive Stratification and the Intergenerational Transmission of Cultural Capital: A Sociological Reconstruction of Individual Development**    
 
-As the first article of 2026, I’d like to discuss an interesting yet profound topic—observations on personal growth.
+As the first article of 2026, I’d like to discuss an interesting yet profound topic—observations on personal growth.    
 
 
-**Publication Date**: January 05, 2026
-**Author**: Ailven LIU 刘翔
-**All Rights Reserved**
+**Publication Date**: January 05, 2026     
+**Author**: Ailven LIU 刘翔     
+**All Rights Reserved**     
 
 
 ### 【楔子】 攀登者的阶梯：关于成长与边界的四重观察
