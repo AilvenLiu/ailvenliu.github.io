@@ -38,5 +38,12 @@
     "description": "This analysis introduces the 'Four-Stage Model of Cognitive Stratification', a sociological framework mapping the complex trajectory of individual development against the backdrop of modern social hierarchy. We deconstruct the evolution of competence into four distinct tiers: the institutional screening of basic education, the global leverage of linguistic proficiency, the high-order productivity of abstract logic, and the ultimate class distinction of holistic self-actualization. Synthesising Pierre Bourdieu’s theories of cultural capital with insights from cognitive psychology, this article exposes the invisible mechanics of intergenerational privilege, tracing the arduous ascent from the structural constraints of survival to the exclusive realm of intellectual and aesthetic freedom.",
     "tags": ["Moment"],
     "file": "moment_260105_individual_development.md"
+  },
+  {
+    "id": "moment-260110",
+    "title": "[Moment][160110] Performative Learning",
+    "date": "2026-01-10",
+    "description": "This essay examines performative learning as a rational adaptation to modern systems governed by instrumental rationality. It argues that, under conditions of intense competition, compressed evaluation, and low institutional capacity for deep assessment, individuals increasingly prioritise the production of externally legible signals over the internalisation of genuine capability. Rather than a moral failing, performative learning emerges as a strategic response to evaluation structures that reward clarity, narrativity, and displayability. The analysis explores its structural origins, psychological foundations, and systemic consequences, including capability–position mismatch and rising trust costs. Ultimately, the essay contends that the core issue lies not in individual behaviour, but in evaluation systems that struggle to recognise, protect, and reward deep, cumulative competence.",
+    "file": "moment_260110_performative_learning.md"
   }
 ]
