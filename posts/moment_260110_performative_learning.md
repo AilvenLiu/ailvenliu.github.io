@@ -1,112 +1,88 @@
-# Performative Learning under Modern Instrumental Rationality: A Rational Adaption or a Systemic Alianation 
+# Performative Learning under Modern Instrumental Rationality: Performative Learning under Modern Instrumental Rationality
 
 **Publication Date**: January 10, 2026    
+**Latest Update Date**: January 15, 2026     
 **Author**: Ailven LIU 刘翔    
 **All Rights Reserved**    
 
 
-## I. The Problem Stated: When Appearing Competent Matters More Than Being Competent
+In contemporary large-scale societies-particularly within institutionalised environments such as schools, universities, and corporate organisations-learning has undergone a subtle yet profound transformation. Increasingly, individuals do not organise their learning around the internal demands of understanding, mastery, or intellectual coherence. Instead, learning is structured as an *act of appearance*: a strategically staged process oriented towards visibility, evaluation, and comparative advantage. This phenomenon, which may be provisionally termed **performative learning**, is not merely a pedagogical deviation but a structural response to modern regimes of instrumental rationality.
 
-Across contemporary systems of education, professional training, and organisational development, a discernible shift has taken place. Increasingly, individuals do not organise their learning around the acquisition of genuine capability, but around the capacity to **be recognised as capable**. Learning is no longer oriented primarily towards the problem itself, but towards the mechanisms of evaluation, the contexts of display, and the anticipation of external judgement. As a result, what may be termed *performative learning* has gradually displaced depth-oriented learning and substantive capability formation.
+Yet performative learning is not a psychologically homogeneous phenomenon. Field observations across educational and occupational settings suggest that within this broad pattern exists a subgroup whose behavioural and affective dispositions exhibit a particularly sharp alignment with performativity. This group is characterised not simply by external orientation, but by a **highly refined sensitivity to status differentials**, coupled with a concealed yet persistent aspiration towards dominance. Understanding this internal differentiation is essential if performative learning is to be analysed with conceptual seriousness rather than moral caricature.
 
-This phenomenon should not be dismissed as mere opportunism, superficiality, or moral decline. On the contrary, it often exhibits a high degree of rationality, strategic coherence, and internal consistency. It is precisely for this reason that it warrants careful and serious examination.
 
-## II. Conceptual Clarification: What Is Performative Learning?
+## I. Learning as Performance in a Society of Evaluation   
 
-Performative learning does not imply falsification, deception, or the absence of learning altogether. Rather, it refers to a specific orientation of learning activity:
+Modern institutions increasingly operate through metrics, rankings, dashboards, and narrativised trajectories of progress. Learning, under such conditions, becomes legible only insofar as it can be *rendered visible* -- certified, narrated, compared, and archived. The epistemic question (“Do I understand?”) is gradually displaced by a performative one (“How does this learning appear?”).   
 
-> Learning is directed not towards the internalisation of capability, but towards the production of **externally legible signals** that can be rapidly recognised, interpreted, and rewarded by evaluation systems.
+This displacement does not require cynicism or bad faith. On the contrary, many individuals sincerely equate learning with its demonstrability. What matters is not the internal reorganisation of cognition, but the production of recognisable signals: credentials, fluency, rhetorical competence, or alignment with dominant discourses. Learning thus becomes less an inward process of formation than a **publicly consumable artefact**.   
 
-Its defining characteristics include:
+However, within this environment, some individuals go further. For them, performative learning is not merely a rational adaptation to evaluation systems; it becomes a *vehicle for positional ambition*.   
 
-1. **Evaluation-driven content selection**  
-   What is learned is determined less by intrinsic value or long-term relevance than by whether it can be documented, narrated, or assessed within formalised frameworks—curricula, résumés, interviews, or metrics.
 
-2. **Depth constrained by displayability**  
-   Knowledge or skills that resist concise presentation or immediate verification are systematically de-prioritised, regardless of their substantive importance.
+## II. Status Sensitivity and the Vertical Imagination of Learning
 
-3. **Systematic inflation of narrative competence**  
-   The ability to articulate confidence, structure explanations, and deploy professional vocabulary often outweighs the actual resolution of the problem in question.
+Among performative learners, a recurrent pattern emerges: a pronounced **vertical imagination** of social life. Individuals continuously and often tacitly assess their relative position—who is above, who is below, who is rising, who is expendable. Learning, in this schema, is not primarily about knowledge acquisition but about **locating oneself advantageously within a hierarchy**.   
 
-Importantly, performative learning is frequently grounded in **partial or surface-level understanding**, amplified through refined techniques of presentation rather than pure fabrication.
+This manifests behaviourally in a striking asymmetry:     
+- Toward those perceived as superior in competence, authority, or symbolic capital, the individual exhibits warmth, humility, deference, and even admiration.    
+- Toward those perceived as inferior, the posture shifts -- sometimes subtly, sometimes overtly -- towards condescension, detachment, or quiet disdain.    
 
-## III. The Structural Context: Why Performative Learning Becomes the Rational Choice
+Crucially, this is not necessarily experienced as hypocrisy by the subject. Rather, it reflects a conditional ethics of interaction: **respect is indexed to position**, not to personhood. One might say that such individuals practise not moral inconsistency, but moral *contingency*.      
 
-### 1. High Competition and Scarce Opportunities
 
-A defining feature of contemporary societies is the concentration of competition around limited opportunities. Educational advancement, employment, and access to resources are mediated by intense selection processes, often involving large numbers of candidates and minimal evaluative bandwidth. Under such conditions:
+## III. Ambition, Concealment, and the Art of Self-Presentation
 
-- Evaluators lack the capacity for deep, individual assessment.  
-- Evaluation must be standardised, rapid, and scalable.
+A notable feature of this subgroup is the coexistence of **strong ambition** with **careful self-concealment**. There is often a deep, sometimes unarticulated desire to occupy a position of superiority -- to command, to judge, to be deferred to. Yet this desire is rarely expressed directly. Instead, it is sublimated into acceptable institutional currencies: excellence, diligence, adaptability, learning capacity.    
 
-Consequently, **signals inevitably displace substance**.
+Performative learning offers an ideal medium for this sublimation. By *excelling* at the appearance of learning—rapid uptake of fashionable concepts, fluent reproduction of dominant vocabularies, strategic demonstration of competence—the individual advances position without overtly declaring ambition. Deference to stronger figures is not merely politeness; it is an **investment strategy**. Superiority over weaker figures, when it appears, functions as delayed confirmation of worth.    
 
-### 2. Temporal Compression of Evaluation
+The alternation between humility and arrogance, therefore, should not be understood as a personality flaw in isolation. It is better analysed as a **situational modulation of selfhood**, finely attuned to hierarchical gradients.     
 
-Modern evaluation typically occurs within sharply constrained timeframes: a single page of credentials, a short interview, a brief presentation, a standardised examination. Such settings are structurally incapable of capturing complex, high-dimensional capabilities. They favour attributes that are:
 
-- Low-dimensional  
-- Easily comparable  
-- Highly structured  
+## IV. Externalised Self-Worth and the Economy of Recognition
 
-This compels individuals to translate learning into simplified, standardised outputs rather than cultivate slow-forming, internally coherent abilities.
+At a deeper psychological level, this pattern reflects a form of **externally anchored self-worth**. Value is not secured through internal standards of understanding or craftsmanship, but through comparative recognition. The self becomes intelligible to itself only via the gaze of others -- particularly those positioned above.
 
-### 3. Cost–Benefit Rationality
+Here, performative learning serves a dual function:
+1. **Upward validation**: learning performances are addressed to superiors as signals of potential, loyalty, or excellence.      
+2. **Downward differentiation**: the same performances establish distance from those deemed less capable, less refined, or less successful.    
 
-Within an instrumental framework, individuals inevitably compare alternative strategies:
+This dynamic produces a fragile equilibrium. As long as upward recognition is forthcoming and downward differentiation is possible, the self remains coherent. When either condition fails -- when one encounters a superior who is indifferent, or when one’s own position deteriorates -- the psychic structure is exposed to instability.    
 
-- **Deep capability formation**  
-  High cost, delayed returns, significant uncertainty, and frequent failure.
 
-- **Performative optimisation**  
-  Lower cost, clearer pathways, faster feedback, and reproducibility.
+## V. Structural Reinforcement in Modern Institutions
 
-Absent strong institutional guarantees for long-term reward, the latter often presents itself as the rational choice.
+It would be misleading to frame this behavioural constellation as a personal pathology. On the contrary, contemporary institutions actively reward it.
 
-## IV. Psychological Foundations: Why Performative Learning Persists
+Modern schools and workplaces tend to:    
+- Incentivise upward signalling more than lateral cooperation.
+- Punish open ambition less than misplaced humility.    
+- Tolerate, and sometimes implicitly endorse, condescension towards subordinates while demanding politeness towards superiors.    
 
-### 1. Aversion to Uncertainty
+Under such conditions, individuals who can precisely calibrate their demeanour to hierarchical context are often labelled as “emotionally intelligent”, “politically savvy”, or “mature”. The moral content of their behaviour -- who deserves respect, and why -- remains largely unscrutinised.
 
-Genuine learning entails prolonged exposure to ambiguity, failure, and the absence of validation. Performative learning, by contrast, offers **predictable progress markers**: a mastered framework, a polished narrative, a recognised credential. The immediacy of feedback is psychologically compelling.
+Performative learning, in this sense, is not merely compatible with status-sensitive ambition; it is one of its most efficient instruments.   
 
-### 2. Externalisation of Self-Worth
 
-In performative learning, self-evaluation is outsourced to formal assessment systems. Personal confidence derives not from internal coherence or mastery, but from external affirmation. This transfer significantly reduces existential and cognitive anxiety.
+## VI. The Inner Tension of Performative Mastery
 
-### 3. Failure Avoidance
+Despite its adaptive advantages, this configuration carries latent costs. Because learning is oriented towards appearance rather than integration, knowledge often remains **fragmentary and reversible** -- retained so long as it serves positional needs, abandoned when it does not. Depth gives way to flexibility; coherence to opportunism.
 
-Deep learning inevitably confronts the learner with inadequacy. Performative strategies allow individuals to shift arenas of evaluation, postponing or diffusing direct confrontation with their own limits.
+Relationally, the individual may find it difficult to sustain genuinely reciprocal bonds. Relationships are silently evaluated for their positional utility, making equality uncomfortable and dependency threatening. Respect given today may be withdrawn tomorrow if the hierarchy shifts.
 
-## V. Systemic Consequences: When Performance Displaces Capability
+Perhaps most critically, the self remains perpetually exposed to the risk of **status loss**. Since worth is externally adjudicated, failure is not merely circumstantial but existential. The same sensitivity that enables rapid ascent renders descent psychologically catastrophic.    
 
-### 1. Capability–Position Mismatch
 
-When selection processes reward signals over substance, systems accumulate individuals whose formal positions exceed their functional capacity, increasing coordination and correction costs.
+## VII. Beyond Moral Condemnation
 
-### 2. Adverse Selection against Depth
+It is tempting to treat such individuals with moral disdain. Yet doing so would miss the analytic point. What is at stake is not individual virtue, but a **moral economy** in which learning, ambition, and recognition are tightly coupled to visibility and hierarchy.
 
-Individuals with strong but tacit or non-performative abilities may be filtered out early, lowering the system’s long-term competence ceiling.
+Performative learning, especially in its status-sensitive form, should therefore be understood as a *symptom* rather than an anomaly: a human response to systems that conflate knowing with showing, and worth with rank. Its cold rationality mirrors the cold rationality of the institutions that cultivate it.
 
-### 3. Escalating Trust Costs
 
-As the correlation between apparent expertise and actual reliability weakens, organisations must invest heavily in internal verification, reducing efficiency and resilience.
+## VIII. Concluding Remarks
 
-## VI. A Critical Misinterpretation: This Is Not Moral Failure
+Performative learning under modern instrumental rationality is not a marginal distortion of education or professional development; it is one of their dominant logics. Within it, the emergence of individuals who combine ambitious aspiration, hierarchical sensitivity, and strategic self-presentation is neither accidental nor rare. These individuals do not simply learn in order to know, nor even merely to succeed. They learn in order to **be placed** -- and, if possible, placed above.
 
-It is a mistake to interpret performative learning as decadence or laziness. A more precise understanding is this:
-
-> Performative learning is a rational adaptation to high-competition, low-trust, and evaluation-compressed environments.
-
-The central issue is not whether individuals *ought* to behave differently, but whether systems:
-
-- Over-simplify evaluation criteria  
-- Lack mechanisms for long-term validation  
-- Fail to protect and reward slow, cumulative competence
-
-## VII. Conclusion: What Is Lost When Learning Becomes Performance
-
-Performative learning does not immediately erode competence, nor does it cause systems to collapse overnight. Its effects are gradual and structural. Over time, it diminishes curiosity about the problem itself, erodes patience for long-term value, and weakens respect for genuine complexity.
-
-When learning increasingly resembles a rehearsed performance, effort does not disappear—its direction is merely redirected.
-
-The most pressing question, therefore, is not why individuals choose to *appear* competent, but why, within our contemporary systems, **being genuinely competent has become so difficult to recognise, protect, and reward**.
+To understand them is not to excuse them, but to confront, without sentimentality, the conditions under which learning itself becomes a theatre of power.
